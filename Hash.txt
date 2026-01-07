@@ -45,4 +45,5 @@ UnityEngine.UI.dll=b4cf3fead97095758eb2982bc8a7c094df6a63aac7c5e0aeb893499cf4ef5
 LauncherVersion=1.0.0
 
 AtualizarDLL
-Assembly-CSharp.dll=https://www.dropbox.com/scl/fi/kremlbonxunrtt7o0pw13/Assembly-CSharp.dll?rlkey=cajhmamcm0yzz2ezzcbb2b19e&st=hsx2ot9x&dl=0
+Assembly-CSharp.dll=https://www.dropbox.com/scl/fi/kremlbonxunrtt7o0pw13/Assembly-CSharp.dll?rlkey=cajhmamcm0yzz2ezzcbb2b19e&st=hsx2ot9x&dl=1
+
