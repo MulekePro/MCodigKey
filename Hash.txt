@@ -1,6 +1,6 @@
 Accessibility.dll=93ce607f2fb8a16f06906e6f26d393396bfc47ef96ae1d04716a26463ebc6ff2
 Assembly-CSharp-firstpass.dll=f9c52b75181cd37025fdbea621e04840cf41eebbe7a9b6c78eab213b8caacc6d
-Assembly-CSharp.dll=f2231f5f63c764d362b84aad2f79de589cfe97232ef37fb54fa7323f90d97add
+Assembly-CSharp.dll=7960a4d05b456430f8374aa36e1e632db80b73f444ed0a5abfa5d3842bb5f58a
 Behave.Unity.Assets.dll=22e7cff089b8f54613092f98abc0f7f066d43f16e0e2b03bc06216937df5274b
 Behave.Unity.Runtime.dll=52c90389b377acf40d51ac3ba1acb38ed3bfcd9d9187361cbbc02acd24352a07
 ConvexHull.dll=c866c5d852b133e4397cea32f385d19dfb47a0568b1ad78288a55386b2ba1e78
@@ -46,6 +46,7 @@ LauncherVersion=1.0.0
 
 AtualizarDLL
 Assembly-CSharp.dll=https://www.dropbox.com/scl/fi/kremlbonxunrtt7o0pw13/Assembly-CSharp.dll?rlkey=cajhmamcm0yzz2ezzcbb2b19e&st=hsx2ot9x&dl=1
+
 
 
 
