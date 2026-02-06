@@ -1,0 +1,111 @@
+microsoft corporation
+microsoft windows
+microsoft software assurance
+microsoft development
+microsoft azure
+microsoft services
+microsoft windows hardware compatibility publisher
+microsoft windows nt
+microsoft windows security
+valve corporation
+steam distribution
+epic games, inc.
+ea digital illusions ce
+rockstar games, inc.
+symantec corporation
+mcafee, inc.
+kaspersky lab zrt.
+trendmicro inc.
+avast software
+bitdefender bv
+european futures software ltd.
+malwarebytes corporation
+sophos ltd.
+crowdstrike inc.
+sentinelone, inc.
+nvidia corporation
+advanced micro devices, inc.
+amd technologies inc.
+intel corporation
+intel(r) corporation
+gigabyte technology co., ltd.
+msi computer corp.
+asustek computer inc.
+asrock incorporation
+biostar microtech intl. corp.
+corsair memory, inc.
+kingston technology company, inc.
+western digital technologies, inc.
+seagate technology llc
+realtek semiconductor corp.
+creative technology ltd.
+broadcom corporation
+qualcomm atheros, inc.
+logitech inc.
+dell inc.
+hewlett-packard company
+hp development company, l.p.
+lenovo (united states) inc.
+acer inc.
+toshiba corporation
+sony corporation
+panasonic corp.
+fujitsu limited
+vmware, inc.
+citrix systems, inc.
+parallels holdings, ltd.
+docker, inc.
+amazon technologies, inc.
+amazon web services, inc.
+google llc
+oracle corporation
+oracle america, inc.
+sun microsystems, inc.
+microsoft net framework
+dotnet foundation
+autodesk, inc.
+adobe systems incorporated
+mozilla corporation
+apple inc.
+apple software, inc.
+opera software ltd.
+dropbox, inc.
+box inc.
+7-zip.sourceforge.net
+winrar lab
+notepad++ community
+vim dev team
+filezilla project
+putty community
+teamviewer germany gmbh
+anydesk software gmbh
+mirillis
+open broadcaster software
+valve corp
+advanced micro devices inc
+micro devices, inc
+ati technologies inc
+amd radeon
+razer usa inc
+razer inc
+logitech software services
+corsair components, inc
+obs project, llc
+mirillis ltd.
+bandicam.com
+beepa pty ltd
+techsmith corporation
+gmbh & co. kg
+splitmedia labs limited
+discord inc.
+overwolf ltd
+nvidia nvenc
+advanced micro devices inc.
+acer incorporated
+amd software: adrenalin edition.ink
+amd software: adrenalin edition
+amd software: host application
+AMD Software: Host Application
+amd software: adrenalin edition.ink
+amd software: adrenalin edition
+Advanced Micro Devices
