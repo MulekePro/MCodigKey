@@ -42,10 +42,11 @@ UnityEngine.Cloud.Analytics.Util.dll=d4f3d698bf3ba1c1dc541983b212a687ec8cde4c5fa
 UnityEngine.dll=9ce16417190f7574a55917debc9b0cf0937310b46de9fc83d641f74c7c8dd30a
 UnityEngine.UI.dll=b4cf3fead97095758eb2982bc8a7c094df6a63aac7c5e0aeb893499cf4ef55d2
 
-LauncherVersion=1.0.0
+LauncherVersion=2.0.0
 
 AtualizarDLL
 Assembly-CSharp.dll=https://www.dropbox.com/scl/fi/kremlbonxunrtt7o0pw13/Assembly-CSharp.dll?rlkey=cajhmamcm0yzz2ezzcbb2b19e&st=hsx2ot9x&dl=1
+
 
 
 
