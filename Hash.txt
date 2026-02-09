@@ -1,5 +1,3 @@
-Aqui estão as DLLs formatadas exatamente como você solicitou:
-
 Assembly-CSharp-firstpass.dll=5357a528109c9b1ff4a7eb8296f4b0bf2f414ed515b748d97fae864873025300
 Assembly-CSharp.dll=345fdb2e1820e7f5552a099c6a6cda9a4f0bbf0a999dee857d3774a33bc83ba1
 Assembly-UnityScript-firstpass.dll=103656d4ea814a1059407295e53ef31840cbe7e44bb5380026c9f62d0a55e6b9
@@ -48,6 +46,7 @@ LauncherVersion=2.0.0
 
 AtualizarDLL
 Assembly-CSharp.dll=https://www.dropbox.com/scl/fi/kremlbonxunrtt7o0pw13/Assembly-CSharp.dll?rlkey=cajhmamcm0yzz2ezzcbb2b19e&st=hsx2ot9x&dl=1
+
 
 
 
