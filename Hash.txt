@@ -42,10 +42,11 @@ UnityEngine.Networking.dll=4e3e1a44d4e45d028bbd5265f2a484feed967b6d4bc461f39386a
 UnityEngine.UI.dll=b59b4e7dec9f8cc6ae7973fd554ee095aac6bcaec027c347c4ea8203fce0c41d
 websocket-sharp.dll=b70a7f0d749099668c751d028d3968017ed182f4af6931c196f435022515fb78
 
-LauncherVersion=2.0.0
+LauncherVersion=3.0.0
 
 AtualizarDLL
 Assembly-CSharp.dll=https://www.dropbox.com/scl/fi/kremlbonxunrtt7o0pw13/Assembly-CSharp.dll?rlkey=cajhmamcm0yzz2ezzcbb2b19e&st=hsx2ot9x&dl=1
+
 
 
 
