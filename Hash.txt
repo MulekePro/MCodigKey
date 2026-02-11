@@ -37,7 +37,7 @@ System.Security.dll=bb97b09487f051746b5704585d6ad4524b8491712ed338ddfb1900b83603
 System.Transactions.dll=31a3b95a0b389921f28f3f21efeaeea12ba4670d01dad82a5fd3934943dc0ff0
 System.Xml.dll=fab045dc3a78788a14fce0d48b3472cfdf97b742552417ceb38bb242f1c72558
 System.Xml.Linq.dll=1ee1a5bc0b466322f10de32ec152504e5560c6d51d5e2076bf742772c45cd37e
-UnityEngine.dll=a0ed8504581e8bce4d2c2dd7ab308d3786a32055c331131050ff9679d99c992c
+UnityEngine.dll=a2e637bfa7892ae3203dd72c98d1b329548aae61c3200c6d7121c932f68a3971
 UnityEngine.Networking.dll=4e3e1a44d4e45d028bbd5265f2a484feed967b6d4bc461f39386a4edc308ce00
 UnityEngine.UI.dll=b59b4e7dec9f8cc6ae7973fd554ee095aac6bcaec027c347c4ea8203fce0c41d
 websocket-sharp.dll=b70a7f0d749099668c751d028d3968017ed182f4af6931c196f435022515fb78
@@ -46,6 +46,7 @@ LauncherVersion=3.0.0
 
 AtualizarDLL
 Assembly-CSharp.dll=https://www.dropbox.com/scl/fi/kremlbonxunrtt7o0pw13/Assembly-CSharp.dll?rlkey=cajhmamcm0yzz2ezzcbb2b19e&st=hsx2ot9x&dl=1
+
 
 
 
