@@ -12,6 +12,7 @@ steam distribution
 epic games, inc.
 ea digital illusions ce
 rockstar games, inc.
+ferox games b.v.
 symantec corporation
 mcafee, inc.
 kaspersky lab zrt.
@@ -108,4 +109,5 @@ amd software: host application
 AMD Software: Host Application
 amd software: adrenalin edition.ink
 amd software: adrenalin edition
+
 Advanced Micro Devices
