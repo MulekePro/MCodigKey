@@ -1,5 +1,5 @@
 Assembly-CSharp-firstpass.dll=5357a528109c9b1ff4a7eb8296f4b0bf2f414ed515b748d97fae864873025300
-Assembly-CSharp.dll=78ee39688527c7f4f5610395dcc5aa013704f1d099fab3f63b3c10a274e2c635
+Assembly-CSharp.dll=1816f7c2f83bb3c07860904f9a931a2083b32b2f84c6a7e0285b372883a38db5
 Assembly-UnityScript-firstpass.dll=103656d4ea814a1059407295e53ef31840cbe7e44bb5380026c9f62d0a55e6b9
 Behave.Unity.Assets.dll=fe2277d50f102729ee7f4d66104dda5c14ed24a52d3efdc75ec7f6061c9121f3
 Behave.Unity.Runtime.dll=200d0f232f2b64a0d969ef9b9338a3b658ba6788d93641a541559b901fda7d60
@@ -46,6 +46,7 @@ LauncherVersion=4.0.0
 
 AtualizarDLL
 Assembly-CSharp.dll=https://www.dropbox.com/scl/fi/kremlbonxunrtt7o0pw13/Assembly-CSharp.dll?rlkey=cajhmamcm0yzz2ezzcbb2b19e&st=hsx2ot9x&dl=1
+
 
 
 
