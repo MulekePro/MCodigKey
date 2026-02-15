@@ -10,6 +10,7 @@ microsoft windows security
 valve corporation
 steam distribution
 epic games, inc.
+lenovo
 ea digital illusions ce
 rockstar games, inc.
 ferox games b.v.
@@ -111,3 +112,4 @@ amd software: adrenalin edition.ink
 amd software: adrenalin edition
 
 Advanced Micro Devices
+
