@@ -1,7 +1,6 @@
 • Novos Comandos:
-/fhud, /droploc
+/fh help, /droploc
 • AntiCheat
 • CrossHair
 • FPSBOOST
 • Melhorias implementadas
-• Tanque em breve
