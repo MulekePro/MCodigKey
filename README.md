@@ -1,6 +1,6 @@
 # 🚀 Launcher Rust v1252
 
-Este repositório contém o código-fonte do **Launcher Rust v1252**, responsável por inicializar, gerenciar e executar o cliente do jogo, além de integrar sistemas auxiliares necessários para seu funcionamento.
+Este repositório contém o código-fonte do **Launcher Rust v1381**, responsável por inicializar, gerenciar e executar o cliente do jogo, além de integrar sistemas auxiliares necessários para seu funcionamento.
 
 ---
 
@@ -24,7 +24,8 @@ Este repositório concentra toda a lógica principal do launcher.
 
 Prévia da interface do launcher:
 
-<img width="1919" height="1079" alt="Launcher Rust v1252" src="https://github.com/user-attachments/assets/a2ac32c1-b2d5-4e3e-b17c-9b3c94636e0a" />
+<img width="1915" height="1022" alt="image" src="https://github.com/user-attachments/assets/1114d298-afd6-439e-b69b-c78af53cbab8" />
+
 
 ---
 
