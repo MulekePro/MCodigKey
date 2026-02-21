@@ -1,4 +1,4 @@
-Assembly-CSharp.dll=1816f7c2f83bb3c07860904f9a931a2083b32b2f84c6a7e0285b372883a38db5|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/Assembly-CSharp.dll
+Assembly-CSharp.dll=bbc04bcabce9416e2575e768664e75514f8953b66884adf47d916ce253632cf8|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/Assembly-CSharp.dll
 Assembly-CSharp-firstpass.dll=5357a528109c9b1ff4a7eb8296f4b0bf2f414ed515b748d97fae864873025300|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/Assembly-CSharp-firstpass.dll
 Assembly-UnityScript-firstpass.dll=103656d4ea814a1059407295e53ef31840cbe7e44bb5380026c9f62d0a55e6b9|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/Assembly-UnityScript-firstpass.dll
 Behave.Unity.Assets.dll=fe2277d50f102729ee7f4d66104dda5c14ed24a52d3efdc75ec7f6061c9121f3|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/Behave.Unity.Assets.dll
@@ -42,5 +42,6 @@ UnityEngine.Networking.dll=4e3e1a44d4e45d028bbd5265f2a484feed967b6d4bc461f39386a
 UnityEngine.UI.dll=b59b4e7dec9f8cc6ae7973fd554ee095aac6bcaec027c347c4ea8203fce0c41d|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/UnityEngine.UI.dll
 websocket-sharp.dll=b70a7f0d749099668c751d028d3968017ed182f4af6931c196f435022515fb78|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/websocket-sharp.dll
 Rust Launcher V1381.exe=21b55d639695c5428fa8180e322f42895192de85a21462c99a848b0795549d16|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/Rust%20Launcher%20V1381.exe
-LegendaryRust.dat=ccda9714dc23ca3483df9c2ef2de65c244e85e49505d5a0a711d31f5b02b1bd8|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/LegendaryRust.dat
+LegendaryRust.dat=568322c7e1fa4464ff33d2abbbc11a0ea5aad81246e9fdb03cb2e20dadb21632|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/LegendaryRust.dat
+
 
