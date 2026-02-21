@@ -41,5 +41,6 @@ UnityEngine.dll=a2e637bfa7892ae3203dd72c98d1b329548aae61c3200c6d7121c932f68a3971
 UnityEngine.Networking.dll=4e3e1a44d4e45d028bbd5265f2a484feed967b6d4bc461f39386a4edc308ce00|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/UnityEngine.Networking.dll
 UnityEngine.UI.dll=b59b4e7dec9f8cc6ae7973fd554ee095aac6bcaec027c347c4ea8203fce0c41d|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/UnityEngine.UI.dll
 websocket-sharp.dll=b70a7f0d749099668c751d028d3968017ed182f4af6931c196f435022515fb78|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/websocket-sharp.dll
-Rust Launcher V1381.exe=cde5e0599637406470eedbcd8ea810f36556eb77446b4c051b318d39fe6d0cdc|https://github.com/MulekePro/MCodigKey/raw/refs/heads/master/Managed/Rust%20Launcher%20V1381.exe
-LegendaryRust.dat=39b289e08b930db42450f4638f7dd825bc8a4d19445fee066931d4637d77077c|https://github.com/MulekePro/MCodigKey/raw/refs/heads/master/Managed/LegendaryRust.dat
+Rust Launcher V1381.exe=21b55d639695c5428fa8180e322f42895192de85a21462c99a848b0795549d16|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/Rust%20Launcher%20V1381.exe
+LegendaryRust.dat=ccda9714dc23ca3483df9c2ef2de65c244e85e49505d5a0a711d31f5b02b1bd8|https://raw.githubusercontent.com/MulekePro/MCodigKey/master/Managed/LegendaryRust.dat
+
