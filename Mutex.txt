@@ -1,1 +1,2 @@
-LegendaryRustLauncher_UniqueKey
+key-teste
+keyewarwba
