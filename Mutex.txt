@@ -1,1 +1,2 @@
 LegendaryRustLauncher_UniqueKey
+LegendaryRustLauncher_Inject
