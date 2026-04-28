@@ -1,4 +1,3 @@
 LegendaryRustLauncher_UniqueKey
 LegendaryRustLauncher_Inject
-WYND_LAUNCHER_MUTEX
 LegendaryGamesKeyzona
