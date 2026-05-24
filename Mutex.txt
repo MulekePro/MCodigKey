@@ -1,3 +1,4 @@
 LegendaryRustLauncher_UniqueKey
 LegendaryRustLauncher_Inject
 LegendaryGamesKeyzona
+HyperLaunche_Rust_SingleInstance
